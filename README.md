@@ -4,8 +4,8 @@
 
 **AI & ML undergrad | Full-Stack Developer | Backend Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwik)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sathwik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathwik9036)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sathwik096)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gsathwikcs@gmail.com)
 
 </div>
@@ -50,34 +50,7 @@ I'm an **AI & ML undergraduate at CBIT, Hyderabad** with hands-on experience bui
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-## Featured Projects
-
-### 🏫 College Management System
-> Full-stack college management system with modules for student/faculty bio-data, attendance tracking, and facilities management.
-
-- **Tech:** React, Node.js, MongoDB, MySQL
-- Unique ID generation with end-to-end CRUD workflows
-- Role-based access control for secure data handling
-- Fully responsive UI with optimized backend operations
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/sathwik)
-
----
-
-### 🗳️ PrajaSetu — Secure Civic Platform
-> An all-in-one digital voting and civic engagement platform with face-verification-based identity checks.
-
-- **Tech:** React, Django, MySQL
-- Face-verification workflow to prevent duplicate/fraudulent votes
-- Role-based authentication with real-time updates
-- Strong emphasis on data security and scalable system design
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/sathwik)
 
 ---
 
